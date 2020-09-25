@@ -1,7 +1,5 @@
 language: nodejs
 
-before script:
-  -npm install
+before script: npm install
 
-script:
-  -npm test
+script: npm run test
