@@ -1,0 +1,4 @@
+[0925/220200.201:ERROR:registration_protocol_win.cc(103)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0925/220200.208:ERROR:registration_protocol_win.cc(103)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0925/220200.343:ERROR:registration_protocol_win.cc(103)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0925/220200.443:ERROR:registration_protocol_win.cc(103)] CreateFile: 系统找不到指定的文件。 (0x2)
